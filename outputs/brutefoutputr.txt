@@ -1,0 +1,24 @@
+[1] "Commencing brute force.."
+[1] "############################################################################"
+[1] "Startpoint:  2162  endpoint:  2177"
+
+Call:
+lm(formula = sub ~ subx)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-7.517 -3.923 -0.161  3.554  6.942 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 24396.9687   563.5551   43.29 2.59e-16 ***
+subx          -10.6906     0.2598  -41.16 5.23e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 4.79 on 14 degrees of freedom
+Multiple R-squared:  0.9918,	Adjusted R-squared:  0.9912 
+F-statistic:  1694 on 1 and 14 DF,  p-value: 5.231e-16
+
+null device 
+          1 
